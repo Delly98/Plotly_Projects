@@ -1,7 +1,7 @@
-## Plotly Projects
+# Plotly Projects
 Here are some of the projects I have made using Plotly
 
-# UK Constituencies Map
+## UK Constituencies Map
 
 The first project I made in Plotly was a map of the UK Parliamentary Constituencies using a Choropleth Map. On this, when hovering over a given district, the legend will give the name of said district and the party that runs it e.g. Party = Conservative, Constituency = Dartford. Each party in the dataframe is also assigned a colour that matches their official colours, which shades the districts that colour.
 
